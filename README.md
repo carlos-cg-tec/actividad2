@@ -1,7 +1,7 @@
 Autores
-Repositorio de Carlos (Main / Master): https://github.com/carlos-cg-tec/actividad1/commits/master/
-Repositorio de fer: https://github.com/xfrgh/actividad1
-Repositorio de Kelwin: https://github.com/kelwin2006/actividad1
+Repositorio de Carlos (Main / Master): https://github.com/carlos-cg-tec/actividad2/commits/master/
+Repositorio de fer: https://github.com/xfrgh/actividad2
+Repositorio de Kelwin: https://github.com/kelwin2006/actividad2
 
 URL actividad 3 https://github.com/xfergh/actividad3
 
