@@ -28,6 +28,11 @@ def inside(head):
     """Return True if head inside boundaries."""
     return -200 < head.x < 190 and -200 < head.y < 190
 
+def move_food():
+    w = vector(randrange(-2, 2) * 10, randrange(-2, 2) * 10)
+    if inside(w):
+        food.move(w)
+
 
 def move():
     """Move snake forward one segment."""
@@ -54,6 +59,10 @@ def move():
         square(body.x, body.y, 9, 'black')
 
     square(food.x, food.y, 9, 'green')
+
+    if randrange(10) == 0:
+        move_food()
+
     update()
     ontimer(move, 100)
 
