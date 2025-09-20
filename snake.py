@@ -28,6 +28,7 @@ def inside(head):
     """Return True if head inside boundaries."""
     return -200 < head.x < 190 and -200 < head.y < 190
 
+# Nueva funcion que mueve la fruta aleatoriamente creando un vector aleatorio
 def move_food():
     w = vector(randrange(-2, 2) * 10, randrange(-2, 2) * 10)
     if inside(w):
@@ -54,7 +55,11 @@ def move():
         snake.pop(0)
 
     clear()
-    
+
+    '''
+    Listas que contienen 5 colores deistintos para la serpiente y comida.
+    uso de la funcion choice para seleccionarlos aleatoriamente
+    '''
     snake_color = choice(['black', 'yellow', 'purple', 'cyan', 'pink'])
     food_color = choice(['green', 'darkblue', 'deeppink', 'magenta', 'mediumspringgreen'])
 
