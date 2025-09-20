@@ -3,7 +3,6 @@ Repositorio de Carlos (Main / Master): https://github.com/carlos-cg-tec/activida
 Repositorio de fer: https://github.com/xfrgh/actividad2
 Repositorio de Kelwin: https://github.com/kelwin2006/actividad2
 
-URL actividad 3 https://github.com/xfergh/actividad3
 
 # Funcionalidad base
         Con las teclas que contienen flecha en el teclado, se puede hacer avanzar al gusano que debe consumir la manzana o el bloque que
