@@ -28,7 +28,7 @@ def inside(head):
     """Return True if head inside boundaries."""
     return -200 < head.x < 190 and -200 < head.y < 190
 
-# Nueva funcion que mueve la fruta aleatoriamente creando un vector aleatorio
+""" Nueva funcion que mueve la fruta aleatoriamente creando un vector aleatorio. """
 def move_food():
     w = vector(randrange(-2, 2) * 10, randrange(-2, 2) * 10)
     if inside(w):
