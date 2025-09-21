@@ -5,13 +5,16 @@ Repositorio de Kelwin: https://github.com/kelwin2006/actividad2
 
 
 # Funcionalidad base
-        Con las teclas que contienen flecha en el teclado, se puede hacer avanzar al gusano que debe consumir la manzana o el bloque que
+
+Con las teclas que contienen flecha en el teclado, se puede hacer avanzar al gusano que debe consumir la manzana o el bloque que
         lo alimenta, si el gusano pega con el limite del infertaz automaticamente se termina el jueg
 
 ##  Modificaciones
 
 # Hacer que la manzana se mueva y cambie de posicion
-            Esta funcinalidad hará que la manzana o el bloque cambie de lugar de manera aleatoria
+
+Esta funcionalidad hará que la manzana o el bloque cambie de lugar de manera aleatoria
 
 # Colores aleatorios
-	Cada vez que se ejecuta Snake.py la comida apareecn con colores diferentes, seleccionados en una lista de 5 colores a excepcion del rojo, esto hace que varie de manera visual en cada partida
+
+Cada vez que se ejecuta Snake.py la comida apareecn con colores diferentes, seleccionados en una lista de 5 colores a excepcion del rojo, esto hace que varie de manera visual en cada partida
